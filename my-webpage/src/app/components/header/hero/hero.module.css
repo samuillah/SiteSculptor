@@ -1,0 +1,20 @@
+.heading1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+    background-color: orchid;
+}
+
+.heading2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:navy;
+    background-color: blueviolet;
+    text-align: center;
+    padding: 10px;
+    text-size-adjust: 10px;
+}
+
+.paragraph {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    background-color: yellow;
+}
