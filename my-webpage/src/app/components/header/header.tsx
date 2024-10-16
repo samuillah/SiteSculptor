@@ -8,8 +8,7 @@ const Header = ()=>{
         </div>
         <div className={Styles.container1}>
         <ul>
-          <li>
-            <Link href= "/">Home</Link>
+          <li><Link href= "/">Home</Link>
           </li>
           <li><Link href ="/about">About</Link>
           </li>

@@ -11,14 +11,12 @@ const AboutPage = () => {
       <br />
     <div className={Styles.container}>
       <h1 className={Styles.header}>This is my About Page</h1>
-      <ul>
-          <li><Link href= "/">Go To Home Page</Link>
-          </li>
-          <li><Link href = "/contact">Go To Contact Page</Link>
-          </li>
-        </ul>
-        <br />
+      <p className= {Styles.paragraph}>Everyone wants to be successful and rich. I also dream of becoming successful in the field I choose although I am still indecisive about the career path I will choose. But I know whatever I choose I will work hard, stay focused and make it big. I also dream of doing something for my country.</p>
+      </div>
+      <br />
+      <div>
         <Footer></Footer>
+      
         </div>
     </div>
   )

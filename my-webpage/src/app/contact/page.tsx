@@ -11,13 +11,10 @@ const ContactPage = () => {
       <br />
     <div className={Styles.container}>
       <h1 className={Styles.header}>This is my Contact Page</h1>
-      <ul>
-          <li><Link href= "/">Go To Home Page</Link>
-          </li>
-          <li><Link href = "/about">Go To About Page</Link>
-          </li>
-        </ul>
-        <br />
+      <p className= {Styles.paragraph}>You just go after your wish. As soon as you start to pursue a dream, your life wakes up and everything has meaning.</p>
+      </div>
+      <br />
+      <div>
         <Footer></Footer>
         </div>
     </div>
